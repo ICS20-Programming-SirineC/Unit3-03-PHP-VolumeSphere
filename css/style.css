@@ -1,0 +1,50 @@
+/* Created by: Sirine Cherkaoui
+ * Created on: April 2023
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit3-03-PHP-VolumeSphere
+*/
+
+form {
+  background-color: #FAE4E6;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #FAEDE4;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: #FAF8E4;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #F1FAE4;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
+
+#yellow {
+  background-color: #E4FAED;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
